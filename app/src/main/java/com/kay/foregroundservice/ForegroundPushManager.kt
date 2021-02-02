@@ -59,7 +59,7 @@ object ForegroundPushManager {
         //通知小图标
         builder.setSmallIcon(R.mipmap.ic_launcher)
         //通知标题
-        builder.setContentTitle("做伴")
+        builder.setContentTitle("ForegroundService")
         //通知内容
         builder.setContentText("服务正在运行中")
         //点击通知栏关闭通知
